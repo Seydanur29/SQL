@@ -1,1 +1,1 @@
-# SQL
+# SQL Egitimi Ödevleri
